@@ -1,4 +1,4 @@
-# Praktikum Mata Kuliah Algoritma dan Pemrograman 1
+# Praktikum Mata Kuliah Algoritma dan Pemrograman 1 (STI)
 ---
 ## 🙋‍♂️ Program Dibuat Oleh:
    - **Nama:** Riantama Putra
