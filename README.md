@@ -10,5 +10,5 @@
 
 ## 📊 Nilai Praktikum
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/aff61787-5850-41f8-9875-252588902ad6" alt="Tabel Nilai Praktikum" width="80%">
+  <img src="https://github.com/user-attachments/assets/5fb4a442-1cc9-4988-bd41-5fda965e8be1" alt="Nilai Praktikum" width="80%">
 </p>
