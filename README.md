@@ -10,5 +10,5 @@
 
 ## 📊 Nilai Praktikum
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5fb4a442-1cc9-4988-bd41-5fda965e8be1" alt="Nilai Praktikum" width="80%">
+  <img width="145" height="58" alt="Screenshot 2025-11-09 125403" src="https://github.com/user-attachments/assets/5fb4a442-1cc9-4988-bd41-5fda965e8be1" />
 </p>
